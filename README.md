@@ -145,6 +145,6 @@ MIT Lisansı © 2025
 
 ## 9. Geliştirici
 
-📌 GitHub: [github.com/kullaniciadi](https://github.com/tahaefendy)
+📌 GitHub: [github.com/tahaefendy](https://github.com/tahaefendy)
 
 💬 Her türlü soru ve öneriniz için Issues kısmını kullanabilirsiniz.
